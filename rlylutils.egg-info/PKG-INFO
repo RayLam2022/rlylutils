@@ -1,0 +1,13 @@
+Metadata-Version: 1.0
+Name: rlylutils
+Version: 0.1.23
+Summary: General file and data processing tools
+Home-page: https://github.com/RayLam2022/rl-utils
+Author: Ray Lam LYL
+Author-email: 1027196450@qq.com
+License: GNU Lesser General Public License v2.1
+Description: # rlylutils
+        General file and data processing tools
+        
+Keywords: file,data processing
+Platform: any
